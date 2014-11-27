@@ -1,0 +1,3 @@
+Available:	24.64 GB (24,640,163,840 bytes)
+  Capacity:	24.76 GB (24,756,215,808 bytes)
+  Mount Point:	/Volumes/Data
